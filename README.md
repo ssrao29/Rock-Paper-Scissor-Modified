@@ -12,4 +12,5 @@ Built for Android platform, can be extended for other platforms as well.
 
 References:
 Info - https://en.wikipedia.org/wiki/Rock_paper_scissors
+
 Assets - Courtesy Google!
