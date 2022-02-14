@@ -11,6 +11,7 @@ The project has the basic implementation of Rock Paper Scissor modified version 
 Built for Android platform, can be extended for other platforms as well.
 
 References:
-Info - https://en.wikipedia.org/wiki/Rock_paper_scissors
 
-Assets - Courtesy Google!
+For Game Rules - https://en.wikipedia.org/wiki/Rock_paper_scissors
+
+For Assets - Courtesy Google!
